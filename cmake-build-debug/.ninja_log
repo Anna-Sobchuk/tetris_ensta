@@ -1,0 +1,15 @@
+# ninja log v5
+34	4720	7560514798822425	CMakeFiles/tetris_ensta.dir/NextFrame.cpp.obj	6f98493abf57bf24
+21	1442	7560517204682126	CMakeFiles/tetris_ensta.dir/J.cpp.obj	8af5fbbc0198db17
+32	1427	7560517204522000	CMakeFiles/tetris_ensta.dir/S.cpp.obj	a29ec6d348228911
+25	1460	7560517205164299	CMakeFiles/tetris_ensta.dir/L.cpp.obj	13e9b684fd0f9580
+15	1450	7560517204652110	CMakeFiles/tetris_ensta.dir/I.cpp.obj	c92362276d7626fd
+41	1454	7560517204952188	CMakeFiles/tetris_ensta.dir/T.cpp.obj	929db9bd51fd233
+29	1465	7560517205144310	CMakeFiles/tetris_ensta.dir/O.cpp.obj	5fb73031c889908
+38	1434	7560517204552121	CMakeFiles/tetris_ensta.dir/Z.cpp.obj	b99397eeb28b48b4
+12	1469	7560517205222470	CMakeFiles/tetris_ensta.dir/FileManager.cpp.obj	f923f81a412672d9
+35	1837	7560517208945643	CMakeFiles/tetris_ensta.dir/Shape.cpp.obj	c877d6d9544f458d
+8	2000	7560517210632848	CMakeFiles/tetris_ensta.dir/Board.cpp.obj	4e02b5e43892e333
+44	1638	7560517206909771	CMakeFiles/tetris_ensta.dir/Screens.cpp.obj	19b7acd0b34517ce
+3	1640	7560517207025489	CMakeFiles/tetris_ensta.dir/main.cpp.obj	52676c0bf728cc78
+4	1313	7560521603839037	CMakeFiles/tetris_ensta.dir/Controller.cpp.obj	d3eaef79b07bd2e8
